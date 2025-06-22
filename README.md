@@ -1,3 +1,3 @@
 # banco-de-dados-lanHouse
 
-Feito por Vitor Barbosa, Marcus Vinicius e Nicolas Khalil
+Com ajuda de Marcus Vinicius e Nicolas Khalil
